@@ -1,0 +1,14 @@
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe.config
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Client.pdb
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\EntityFramework.dll
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Data.dll
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Models.dll
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Data.pdb
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\InfernoDb.Models.pdb
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\EntityFramework.xml
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\obj\Debug\InfernoDb.Client.csprojResolveAssemblyReference.cache
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\obj\Debug\InfernoDb.Client.exe
+D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\obj\Debug\InfernoDb.Client.pdb
