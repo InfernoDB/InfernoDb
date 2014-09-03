@@ -10,3 +10,15 @@ D:\Telerik Academy\Database\Test\PDF\bin\Debug\itextsharp.xml
 D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.csprojResolveAssemblyReference.cache
 D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.dll
 D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.pdb
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\PDF.dll.config
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\PDF.dll
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\PDF.pdb
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\itextsharp.dll
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\InfernoDb\PDF\bin\Debug\itextsharp.xml
+C:\Users\user\Source\Repos\InfernoDb\PDF\obj\Debug\PDF.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\InfernoDb\PDF\obj\Debug\PDF.dll
+C:\Users\user\Source\Repos\InfernoDb\PDF\obj\Debug\PDF.pdb

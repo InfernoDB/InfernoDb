@@ -26,3 +26,17 @@ D:\Telerik Academy\Database\Test\InfernoDb.Models\bin\Debug\MongoDB.Driver.xml
 D:\Telerik Academy\Database\Test\InfernoDb.Models\obj\Debug\InfernoDb.Models.csprojResolveAssemblyReference.cache
 D:\Telerik Academy\Database\Test\InfernoDb.Models\obj\Debug\InfernoDb.Models.dll
 D:\Telerik Academy\Database\Test\InfernoDb.Models\obj\Debug\InfernoDb.Models.pdb
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\InfernoDb.Models.dll.config
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\InfernoDb.Models.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\InfernoDb.Models.pdb
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\MongoDB.Bson.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\MongoDB.Driver.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\MongoDB.Bson.xml
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\bin\Debug\MongoDB.Driver.xml
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\obj\Debug\InfernoDb.Models.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\obj\Debug\InfernoDb.Models.dll
+C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Models\obj\Debug\InfernoDb.Models.pdb

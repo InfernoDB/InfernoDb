@@ -28,3 +28,18 @@ D:\Telerik Academy\Database\Test\ExcelOperating\bin\Debug\MongoDB.Bson.xml
 D:\Telerik Academy\Database\Test\ExcelOperating\obj\Debug\ExcelOperating.csprojResolveAssemblyReference.cache
 D:\Telerik Academy\Database\Test\ExcelOperating\obj\Debug\ExcelOperating.dll
 D:\Telerik Academy\Database\Test\ExcelOperating\obj\Debug\ExcelOperating.pdb
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\ExcelOperating.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\ExcelOperating.pdb
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Data.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Models.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\Ionic.Zip.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\MongoDB.Bson.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Data.pdb
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Models.pdb
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\Ionic.Zip.xml
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\bin\Debug\MongoDB.Bson.xml
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.dll
+C:\Users\user\Source\Repos\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.pdb
