@@ -81,6 +81,10 @@
       <Project>{78245f63-d872-40a5-a95a-648883d4aad0}</Project>
       <Name>MongoDbData</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PDF\PDF.csproj">
+      <Project>{60ba6c5e-8d80-4fd6-8fd3-53639c70b5ed}</Project>
+      <Name>PDF</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ExtractExcelFeils\" />

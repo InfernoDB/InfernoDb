@@ -1,5 +1,6 @@
 ﻿namespace InfernoDb.Client
 {
+    using PDFReporter;
     using ExcelOperating;
     using InfernoDb.Data.Repository;
     using InfernoDb.Models;
@@ -12,14 +13,19 @@
     using System.Collections.Generic;
     using System.Data.OleDb;
     using System.Linq;
+    using InfernoDb.Data;
 
     public class InfernoDbMain
     {
 
         public static void Main()
         {
-            
 
+
+            using (DataContext db = new DataContext())
+            {
+               
+            }
 
         }
     }

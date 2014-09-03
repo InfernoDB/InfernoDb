@@ -22,3 +22,34 @@ D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\ExcelOperating.dll
 D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\MongoDbData.dll
 D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\ExcelOperating.pdb
 D:\VS Projeckt\DataBase\InfernoDb\InfernoDb.Client\bin\Debug\MongoDbData.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe.config
+D:\Telerik Academy\Database\Test\InfernoDb.Client\obj\Debug\InfernoDb.Client.exe
+D:\Telerik Academy\Database\Test\InfernoDb.Client\obj\Debug\InfernoDb.Client.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Client.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\ExcelOperating.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Data.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Models.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\Ionic.Zip.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDB.Bson.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDB.Driver.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDbData.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\PDF.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\itextsharp.dll
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\ExcelOperating.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Data.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\InfernoDb.Models.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDbData.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\PDF.pdb
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\Ionic.Zip.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDB.Bson.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\MongoDB.Driver.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\bin\Debug\itextsharp.xml
+D:\Telerik Academy\Database\Test\InfernoDb.Client\obj\Debug\InfernoDb.Client.csprojResolveAssemblyReference.cache
+D:\Database\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe.config
+D:\Database\InfernoDb.Client\obj\Debug\InfernoDb.Client.exe
+D:\Database\InfernoDb.Client\obj\Debug\InfernoDb.Client.pdb

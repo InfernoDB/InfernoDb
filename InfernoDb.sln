@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfernoDb.Models", "InfernoDb.Models\InfernoDb.Models.csproj", "{E83D7E28-BF10-4998-8E6F-BEE3C6601A66}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelOperating", "ExcelOperating\ExcelOperating.csproj", "{FA15E7AB-F8C2-4DF8-9AB9-2CC4C25C6AE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbData", "MongoDbData\MongoDbData.csproj", "{78245F63-D872-40A5-A95A-648883D4AAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF", "PDF\PDF.csproj", "{60BA6C5E-8D80-4FD6-8FD3-53639C70B5ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{78245F63-D872-40A5-A95A-648883D4AAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78245F63-D872-40A5-A95A-648883D4AAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78245F63-D872-40A5-A95A-648883D4AAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BA6C5E-8D80-4FD6-8FD3-53639C70B5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BA6C5E-8D80-4FD6-8FD3-53639C70B5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BA6C5E-8D80-4FD6-8FD3-53639C70B5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BA6C5E-8D80-4FD6-8FD3-53639C70B5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

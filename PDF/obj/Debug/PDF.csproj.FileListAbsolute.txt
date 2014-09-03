@@ -1,0 +1,12 @@
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\PDF.dll.config
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\PDF.dll
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\PDF.pdb
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\itextsharp.dll
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Database\Test\PDF\bin\Debug\itextsharp.xml
+D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.dll
+D:\Telerik Academy\Database\Test\PDF\obj\Debug\PDF.pdb
