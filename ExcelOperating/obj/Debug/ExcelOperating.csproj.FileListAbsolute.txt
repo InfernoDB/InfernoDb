@@ -1,0 +1,15 @@
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\ExcelOperating.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\ExcelOperating.pdb
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Data.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Models.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\Ionic.Zip.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\EntityFramework.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\MongoDB.Bson.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Data.pdb
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\InfernoDb.Models.pdb
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\Ionic.Zip.xml
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\EntityFramework.xml
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\bin\Debug\MongoDB.Bson.xml
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.csprojResolveAssemblyReference.cache
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.dll
+D:\VS Projeckt\DataBase\InfernoDb\ExcelOperating\obj\Debug\ExcelOperating.pdb
