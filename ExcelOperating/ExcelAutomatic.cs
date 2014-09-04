@@ -125,7 +125,7 @@
             Sale exelSales = new Sale();
             exelSales.ProductId = (int)ProductId;
             exelSales.UnitPrice = (decimal)UnitPrice;
-            exelSales.Date = date;
+            exelSales.DateSales = date;
 
             data.Sales.Add(exelSales);
             data.SaveChanges();
