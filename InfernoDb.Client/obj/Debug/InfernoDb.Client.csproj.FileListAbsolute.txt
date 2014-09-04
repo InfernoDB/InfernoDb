@@ -81,3 +81,6 @@ C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Client\bin\Debug\MongoDB.Bson.xml
 C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Client\bin\Debug\MongoDB.Driver.xml
 C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Client\bin\Debug\itextsharp.xml
 C:\Users\user\Source\Repos\InfernoDb\InfernoDb.Client\obj\Debug\InfernoDb.Client.csprojResolveAssemblyReference.cache
+D:\Inferno\InfernoDb.Client\bin\Debug\InfernoDb.Client.exe.config
+D:\Inferno\InfernoDb.Client\obj\Debug\InfernoDb.Client.exe
+D:\Inferno\InfernoDb.Client\obj\Debug\InfernoDb.Client.pdb
