@@ -11,11 +11,13 @@
     {
         private ICollection<Vendor> vendors;
         private ICollection<Measure> measure;
+        private ICollection<Sale> sales;
 
         public Product()
         {
             this.vendors = new HashSet<Vendor>();
             this.measure = new HashSet<Measure>();
+            this.sales = new HashSet<Sale>();
         }
 
         [Key]
@@ -26,6 +28,8 @@
         public decimal  BasePrice { get; set; }
 
         public DateTime DateTime { get; set; }
+
+
 
         public virtual ICollection<Vendor> Vendors
         {
@@ -38,5 +42,12 @@
             get { return this.measure; }
             set { this.measure = value; }
         }
+
+        public virtual ICollection<Sale> Sales
+        {
+            get { return this.sales; }
+            set { this.sales = value; }
+        }
+
     }
 }
