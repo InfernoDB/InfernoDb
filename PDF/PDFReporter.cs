@@ -13,8 +13,6 @@ namespace PDFReporter
 {
     public static class PDFReporter
     {
-
-
         public static void CreateReport<T>(IQueryable<T> report, string targetPath, string title)
         {
             FileStream fs = new FileStream(targetPath, FileMode.Create, FileAccess.ReadWrite);
