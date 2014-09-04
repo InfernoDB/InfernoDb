@@ -7,18 +7,13 @@ using System.IO;
 using System.Globalization;
 using System.Reflection;
 using System.Xml.Linq;
+using InfernoDb.Data.Repository;
 
 namespace XML
 {
     public class XmlExport
     {
-        private readonly string fileName = Directory.GetCurrentDirectory() + "/Reports/Sales-by-Vendors-report.xml";
-
-        public void Export(DateTime date, string vendor, double totalSum)
-        {
-            var reportXml = this.GenerateReportXml(date, vendor, totalSum);
-            reportXml.Save(this.fileName);
-        }
+        private readonly string fileName = "..\\..\\Sales-by-Vendors-report.xml";
 
         private XElement GenerateReportXml(DateTime date, string vendor, double totalSum)
         {
@@ -27,7 +22,7 @@ namespace XML
                     new XElement("summary", new XAttribute("date", string.Format("{0}", date)),
                         new XAttribute("total-sum", string.Format("{0}", totalSum)))));
 
-          //  root.Add();
+            root.Add();
 
             return root;
         }
