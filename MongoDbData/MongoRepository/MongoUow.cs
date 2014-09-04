@@ -32,6 +32,21 @@
             get { return this.GetRepository<Measure>(); }
         }
 
+        public IMongoDbRepository<Sale> Sales
+        {
+            get { return this.GetRepository<Sale>(); }
+        }
+
+        public IMongoDbRepository<Region> Regions
+        {
+            get { return this.GetRepository<Region>(); }
+        }
+
+        public IMongoDbRepository<City> Cities
+        {
+            get { return this.GetRepository<City>(); }
+        }
+
         private IMongoDbRepository<T> GetRepository<T>() where T : MongoDbID
         {
             if (!this.repositories.ContainsKey(typeof(T)))
@@ -43,6 +58,8 @@
 
             return (IMongoDbRepository<T>)this.repositories[typeof(T)];
         }
+
+
 
 
 
