@@ -14,7 +14,7 @@
 
         public string  VendorName { get; set; }
 
-         [BsonIgnore]
+        [BsonIgnore]
         public virtual Product Product { get; set; }
 
     }
