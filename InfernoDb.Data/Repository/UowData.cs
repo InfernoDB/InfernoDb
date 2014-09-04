@@ -79,5 +79,16 @@ namespace InfernoDb.Data.Repository
         {
             this.context.Dispose();
         }
+
+
+        public IRepository<City> Cities
+        {
+            get { return this.GetRepository<City>(); ; }
+        }
+
+        public IRepository<Region> Regions
+        {
+            get { return this.GetRepository<Region>(); }
+        }
     }
 }
