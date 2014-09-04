@@ -10,6 +10,11 @@
 
          IMongoDbRepository<Measure> Measurs { get; }
 
+         IMongoDbRepository<Sale> Sales { get; }
+
+         IMongoDbRepository<Region> Regions { get; }
+
+         IMongoDbRepository<City> Cities { get; }
     }
 
 }
